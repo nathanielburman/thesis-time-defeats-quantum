@@ -1,12 +1,14 @@
 # thesis-time-defeats-quantum
 What are you waiting for?
 
-I am not concerned about Time.
+---
 
-Quantum is faster.
+1. I am not concerned about Time.
 
-A binary chain can look quantum too.
+2. "Quantum is faster".
 
-Time, and blinking lights.
+3. A binary chain can look quantum too.
 
-Why do we keep the front door open, open and close?
+4. Time, and blinking lights.
+
+5. Why do we keep the front door open, open and close?
