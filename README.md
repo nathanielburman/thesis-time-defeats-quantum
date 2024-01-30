@@ -14,3 +14,5 @@ What are you waiting for?
 5. Why do we keep the front door open, open and close?
 
 6. They just want an excuse to steal the money...
+
+7. I looked before you did. You just haven't looked yet.
