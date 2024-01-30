@@ -16,3 +16,5 @@ What are you waiting for?
 6. They just want an excuse to steal the money...
 
 7. I looked before you did. You just haven't looked yet.
+
+8. Binary-Quantum or "prove it".
