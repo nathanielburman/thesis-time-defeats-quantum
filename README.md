@@ -9,4 +9,4 @@ A binary chain can look quantum too.
 
 Time, and blinking lights.
 
-Why do we keep the front door open. Open and close?
+Why do we keep the front door open, open and close?
