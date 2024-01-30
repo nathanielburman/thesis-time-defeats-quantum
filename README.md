@@ -8,3 +8,5 @@ Quantum is faster.
 A binary chain can look quantum too.
 
 Time, and blinking lights.
+
+Why do we keep the door open. Open and close?
