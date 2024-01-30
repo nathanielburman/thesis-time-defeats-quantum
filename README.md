@@ -12,3 +12,5 @@ What are you waiting for?
 4. Time, and blinking lights.
 
 5. Why do we keep the front door open, open and close?
+
+6. They just want an excuse to steal the money...
