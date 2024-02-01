@@ -18,3 +18,5 @@ What are you waiting for?
 7. I looked before you did. You just haven't looked yet.
 
 8. Binary-Quantum or "prove it".
+
+9. <img src="https://github.com/nathanielburman/thesis-time-defeats-quantum/blob/main/25ksiblg1v2.jpg" width="100%"></img>
